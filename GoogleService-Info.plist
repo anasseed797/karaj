@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>390993026330-dgt4lfgq9tdgreavo8i6e7u54u9v9go5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.390993026330-dgt4lfgq9tdgreavo8i6e7u54u9v9go5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>390993026330-e12omid133ohs2j4ouorseakhrlsd2mg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSqyQXT6xS_IVH2-uXILWAoVdgNfmx8bU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>390993026330</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mttweren.karaj</string>
+	<key>PROJECT_ID</key>
+	<string>karaj-mttweren</string>
+	<key>STORAGE_BUCKET</key>
+	<string>karaj-mttweren.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:390993026330:ios:9d76bfb2503ea112fa60a3</string>
+	<key>DATABASE_URL</key>
+	<string>https://karaj-mttweren-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
